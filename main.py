@@ -5,7 +5,6 @@ import os
 
 # Pre-trained models from YOLO community - to be referenced
 weights_path = "yolov3.weights"
-
 config_path = "yolov3.cfg"
 
 # Check if the weights and cfg files are in the right path
