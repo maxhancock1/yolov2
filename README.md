@@ -6,12 +6,23 @@
 
 ## Instructions 
 
-Run 'wget https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg' <br />
+Access to the pre-trained models that are used for 
+### For all of the following commands, run within the following: 
+```bat
+cd /home/root/ObjectDetection/
+```
+### Install the pre-trained models
+```bat
+$ wget https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
+```
 
-Run 'wget https://pjreddie.com/media/files/yolov3.weights' <br />
+```bat
+$ wget https://pjreddie.com/media/files/yolov3.weights
+```
 
-Run 'wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names'
-
+```bat
+$ wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
+```
 
 ### Output Dog
 
