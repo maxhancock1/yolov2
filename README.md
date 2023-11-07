@@ -9,7 +9,7 @@ Object detection plays a crucial role in neuroprosthetics, which are designed to
 
 ## Instructions 
 
-Access to the pre-trained models that are used for 
+Access to the pre-trained models that are used for the weightings of the neural network as these models have been vigorously trained over an extended period of time. 
 
 ### For all the following commands, run within the following: 
 ```bat
